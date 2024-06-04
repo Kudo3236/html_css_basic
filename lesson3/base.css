@@ -38,3 +38,7 @@ body {
 }
 
 /* 上の部分は気にせずここから書く */
+.main{
+  width: 50%;
+  margin: 0 auto;
+}
