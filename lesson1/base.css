@@ -38,3 +38,24 @@ body {
 }
 
 /* 上の部分は気にせずここから書く */
+.black{
+  height:250px;
+  width:150px;
+  background-color:black;
+  .black_t{
+    padding-top:10px;
+    color:white;
+  }
+}
+
+.white{
+  height:250px;
+  width:150px;
+  
+  background-color:white;
+  border:1px solid black;
+  .white_t{
+    padding-top:10px;
+    color:black;
+  }
+}
